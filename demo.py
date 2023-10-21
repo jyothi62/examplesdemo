@@ -1,0 +1,1 @@
+print("Always happy me")
